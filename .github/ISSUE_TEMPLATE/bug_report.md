@@ -26,6 +26,3 @@ If applicable, add screenshots to help explain your problem.
  - BungeeCord/Velocity Version: [e.g. 1.19]
  - Spigot/Paper Version: [e.g. 1.19.2]
  - Database Used: [e.g. MySQL 8.0]
-
-## Logs
-Please include relevant logs (use code tags PLS). 
